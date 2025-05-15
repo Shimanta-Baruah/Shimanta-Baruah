@@ -1,7 +1,8 @@
 ![logo](https://github.com/Shimanta-Baruah/Shimanta-Baruah/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Shimanta Baruah</h1>
 <h3 align="center">A passionate fullstack and AI/ML developer from India</h3>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJmdjFmdjZnYmMzMm0zYW5oYzM5dm9kcmY3OHg3azN1anhrcmh5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hvEdKpliYKcY0s4Pak/giphy.gif" alt="coding" align="right" width="250" style="border-radius: 10px;" />
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" align="right" width="250" style="border-radius: 10px;" />
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanta-baruah&label=Profile%20views&color=0e75b6&style=flat" alt="shimanta-baruah" /> </p>
 
