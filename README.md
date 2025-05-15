@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shimanta Baruah</h1>
 <h3 align="center">A passionate fullstack and AI/ML developer from India</h3>
+<img align="right" alt="coding" width"400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FPika003%2FPika003&psig=AOvVaw06MnH1awZMoOXChPBBTjwo&ust=1747425511310000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiKw7mhpo0DFQAAAAAdAAAAABAo)">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimanta-baruah" alt="shimanta-baruah" /></a> </p>
 
